@@ -1,0 +1,7 @@
+C:\Users\Ashwitha\Desktop\Practice Projects\Phase1EndProject\Player and Team Requ.irements\Player and Team Requ.irements\bin\Debug\Player and Team Requ.irements.exe.config
+C:\Users\Ashwitha\Desktop\Practice Projects\Phase1EndProject\Player and Team Requ.irements\Player and Team Requ.irements\bin\Debug\Player and Team Requ.irements.exe
+C:\Users\Ashwitha\Desktop\Practice Projects\Phase1EndProject\Player and Team Requ.irements\Player and Team Requ.irements\bin\Debug\Player and Team Requ.irements.pdb
+C:\Users\Ashwitha\Desktop\Practice Projects\Phase1EndProject\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Practice Projects\Phase1EndProject\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.csproj.CoreCompileInputs.cache
+C:\Users\Ashwitha\Desktop\Practice Projects\Phase1EndProject\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.exe
+C:\Users\Ashwitha\Desktop\Practice Projects\Phase1EndProject\Player and Team Requ.irements\Player and Team Requ.irements\obj\Debug\Player and Team Requ.irements.pdb
